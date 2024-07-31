@@ -1,4 +1,4 @@
-# Streamlit Workshop at KAUST
+# Introduction to Streamlit Workshop at KAUST
 
 Before attending the workshop, please complete the following preparations:
 

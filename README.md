@@ -29,3 +29,6 @@ Ensure you have an IDE installed. I personally recommend using Visual Studio, bu
 
 Enjoy the workshop and happy coding!
 
+## Assistant Chatbot Maker Mini Project
+
+To access the app, [click here](https://chatbot-maker-kaust-workshop.streamlit.app/).
